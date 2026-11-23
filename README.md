@@ -13,6 +13,7 @@ assets/i18n.js        Kazakh → Russian / English dictionary and language switc
 assets/decks/         presentation slides (full size + -sm previews, WebP)
 assets/events/        photos from lessons and school events
 assets/cert/          certificate image (personal numbers redacted)
+assets/cv/            CV as PDF (download button on the site)
 assets/og-image.png   link preview image
 ```
 
